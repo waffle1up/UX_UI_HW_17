@@ -28,5 +28,11 @@ footer{
 
 }
 ul{ 
-    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+
 }
+li{
+    padding-inline-start: 0%;
+}
+
